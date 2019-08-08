@@ -1,0 +1,9 @@
+
+# Visual Studio related
+.vs/
+
+# Visual Micro related
+__vm/
+
+# Build related
+/Release
