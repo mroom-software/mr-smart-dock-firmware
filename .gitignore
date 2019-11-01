@@ -9,3 +9,4 @@ __vm/
 /Release
 
 # File ignore
+server_config.h
