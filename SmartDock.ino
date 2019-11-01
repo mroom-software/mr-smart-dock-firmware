@@ -30,6 +30,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 /* Create a WiFi access point and provide a web server on it. */
 
+#include "server_config.h"
+#include "database.h"
 #include <Ticker.h>
 #include <EEPROM.h>
 #include <PubSubClient.h>
